@@ -1,4 +1,3 @@
-
 # 💡Project Description:
 The Person Detection System leverages the capabilities of the Arduino Nano BLE 33 to detect and identify the presence of a person in its vicinity. This compact, power-efficient system utilizes advanced sensors and machine learning models to provide reliable and real-time person detection, making it ideal for applications such as security systems, smart homes, or robotics.
 
